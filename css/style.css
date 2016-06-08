@@ -1,0 +1,20 @@
+body {
+	padding-top: 50px; 
+}
+
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+table, th, td{
+	text-align: center;
+}
+
+.image-back-office {
+	width: 50px;
+}
+
+img {
+	width: 100px;
+}

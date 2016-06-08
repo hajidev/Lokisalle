@@ -1,0 +1,42 @@
+body {
+	padding-top: 50px; 
+}
+
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+table, th, td{
+	text-align: center;
+}
+
+.image-back-office {
+	width: 50px;
+}
+
+img {
+	width: 100px;
+}
+
+#searchForm {
+	margin: 1.3rem 0 0 15rem;
+}
+
+#loupe {
+	/*ajouter une image de fond*/
+	background-image: url("../img/loupe.png");
+	/*Ajuster la taille de l'image sur la taille du INPUT*/
+	background-size: 100%;
+	/*Ne pas dupliquer l'image de fond*/
+	background-repeat: no-repeat;
+	/*aumenter la taille du INPUT*/
+	width: 2rem;
+	/*ajouter une marge à gauche*/
+	margin-left: .5rem;
+
+	/*supprimer les bordures*/
+	border: none;
+	/*supprimer la coulour de fond*/
+	background-color: transparent;
+}

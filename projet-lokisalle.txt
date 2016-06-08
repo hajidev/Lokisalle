@@ -1,0 +1,15 @@
+Action1 - prenom - temps (30min)
+Action2 - prenom -temps (1h)
+
+-------------------
+-------------------
+02 - conceptualisation de la base de données
+03 - BackOffice / Gestion des salles
+04 - BackOffice / Gestion des produits
+05 - BackOffice / Gestion des membres
+
+09 - FronOffice / Accueil
+10 - FronOffice / Fiche Produit
+11 - FronOffice / Inscription
+12 - FronOffice / Connexion
+13 - FronOffice / Profil
